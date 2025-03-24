@@ -13,9 +13,19 @@
 ---
 
 ### ☆ Мой стек:
-HTML5 • CSS3 • JavaScript • TypeScript 
-Webpack • Babel • Prettier • Docker  
-Git • GitHub • Figma 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFDEB4?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-A0E7E5?style=for-the-badge&logo=typescript&logoColor=black">
+  <img src="https://img.shields.io/badge/Webpack-BDE0FE?style=for-the-badge&logo=webpack&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-FFC3A0?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Babel-FFCAD4?style=for-the-badge&logo=babel&logoColor=black">
+  <img src="https://img.shields.io/badge/Prettier-CAF0F8?style=for-the-badge&logo=prettier&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-98F5E1?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-FACBEA?style=for-the-badge&logo=git&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub-C1BBDD?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/Figma-FFD6E0?style=for-the-badge&logo=figma&logoColor=black">
+</p>
 
 ---
 
