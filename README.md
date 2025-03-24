@@ -1,16 +1,29 @@
-## Hi there 👋
+### Привет, я Юля! ^_−☆ 
 
-<!--
-**badabumb/badabumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☆ Я frontend-разработчик. Учусь в **РТУ МИРЭА** по направлению "Программная инженерия" ☆
 
-Here are some ideas to get you started:
+Меня по-настоящему вдохновляет фронтенд-разработка, ведь она сочетает в себе эстетику и удобство. Мне нравится работать с визуальной частью, улучшать пользовательский опыт и делать взаимодействие с веб-приложениями интуитивным и комфортным.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Чем занимаюсь сейчас?
+- Прохожу ассоциативную подготовку по направлению "frontend-разработчик" на Яндекс Практикум
+- Работаю над собственными проектами, связанными с веб-разработкой
+
+---
+
+### ☆ Мой стек:
+HTML5 • CSS3 • JavaScript • TypeScript 
+Webpack • Babel • Prettier • Docker  
+Git • GitHub • Figma 
+
+---
+
+### ☆ GitHub Stats:
+![Юлин GitHub статус](https://github-readme-stats.vercel.app/api?username=badabumb&show_icons=true&theme=radical)  
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=badabumb&layout=compact&theme=radical)  
+
+---
+
+ **Связаться со мной:**  
+[Telegram](https://t.me/badabedumb) | [Почта](mailto:juliavediukova@mail.ru)  
