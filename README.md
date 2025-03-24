@@ -19,8 +19,7 @@ Git • GitHub • Figma
 
 ---
 
-### ☆ GitHub Stats:
-![Юлин GitHub статус](https://github-readme-stats.vercel.app/api?username=badabumb&show_icons=true&theme=radical)  
+### ☆ GitHub Stats: 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=badabumb&layout=compact&theme=radical)  
 
 ---
