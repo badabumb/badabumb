@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Webpack-BDE0FE?style=for-the-badge&logo=webpack&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-FFC3A0?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SCSS-FFB702?style=for-the-badge&logo=scss&logoColor=white">
   <img src="https://img.shields.io/badge/Babel-FFCAD4?style=for-the-badge&logo=babel&logoColor=black">
   <img src="https://img.shields.io/badge/Prettier-CAF0F8?style=for-the-badge&logo=prettier&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-98F5E1?style=for-the-badge&logo=docker&logoColor=black">
